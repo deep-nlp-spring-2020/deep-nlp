@@ -22,10 +22,8 @@ Taking together Stanford cs224n course with support of [DeepPavlov](https://deep
 
 ### Week 1 (11.02.2020)
 
-* Lectures 1-2 
-  * [Word Vector Representations (word2vec)](https://youtu.be/8rXD5-xhemo)
-  * [Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) 0:00-38:40, 58:00-1:20:00
-
+* [Word Vector Representations (word2vec)](https://youtu.be/8rXD5-xhemo)
+* [Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) 0:00-38:40, 58:00-1:20:00
 * Additional materials:
   * [CS224n: Natural Language Processing with Deep Learning](https://youtu.be/OQQ-W_63UgQ)
   * [CS224n: Word Vector Representations, word2vec](https://youtu.be/ERibwqs9p38)
@@ -37,7 +35,7 @@ Taking together Stanford cs224n course with support of [DeepPavlov](https://deep
  
  * [CS224n: Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) (38:40-58:00)
  * [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051)
-  * Additional materials:
+ * Additional materials:
     * [CS224n: GloVe: Global Vectors for Word Representation](https://youtu.be/ASn7ExxLZws)
     * [fastText](https://youtu.be/CHcExDsDeHU)
 
