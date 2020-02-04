@@ -58,7 +58,7 @@ Taking together Stanford cs224n course with support of [DeepPavlov](https://deep
 ### Week 10. Natural Language Generation
 
 ## Related Courses
-* CS 224n: Natural Language Processing with Deep Learning [course](http://web.stanford.edu/class/cs224n/) [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* CS 224n: Natural Language Processing with Deep Learning [[course]](http://web.stanford.edu/class/cs224n/) [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * CS231n: Convolutional Neural Networks for Visual Recognition [course](http://cs231n.stanford.edu/) [youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Machine Learning Glossary](https://clck.ru/FFZ2x)
 * [Open Machine Learning Course by @yorko](http://mlcourse.ai)
