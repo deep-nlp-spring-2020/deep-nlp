@@ -11,7 +11,7 @@ Taking together Stanford cs224n course with support of [DeepPavlov](https://deep
 
 #### Forum: https://forum.deeppavlov.ai/c/schools-hackatons/Deep-Learning-in-NLP/41
 
-## Course structure
+## Course Structure
 
 * weekly quizes
   * [Quiz 1](https://forms.gle/2Gjgq1ot1dFhQsNZ7)
