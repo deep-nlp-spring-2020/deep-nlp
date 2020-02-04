@@ -42,7 +42,7 @@ Taking together Stanford cs224n course with support of [DeepPavlov](https://deep
     * GloVe: Global Vectors for Word Representation: https://youtu.be/ASn7ExxLZws
     * fastText: https://youtu.be/CHcExDsDeHU
 
-## Approximate syllabus (based on 2019 edition, subject to change)
+## Approximate Syllabus
     
 ### Week 3. Neural Networks. Part 1
   
