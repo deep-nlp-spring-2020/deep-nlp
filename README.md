@@ -14,7 +14,7 @@ Taking together Stanford cs224n course with support of [DeepPavlov](https://deep
 ## Course structure
 
 * weekly quizes
-  * Quiz 1: https://forms.gle/2Gjgq1ot1dFhQsNZ7.
+  * [Quiz 1](https://forms.gle/2Gjgq1ot1dFhQsNZ7)
 * up to 5 practical hometasks (Jupyter Notebook), to be announced.
 * course project (obligatory), to be announced.
 
@@ -23,24 +23,23 @@ Taking together Stanford cs224n course with support of [DeepPavlov](https://deep
 ### Week 1 (11.02.2020)
 
 * Lectures 1-2 
-  * Word Vector Representations (word2vec) https://youtu.be/8rXD5-xhemo
-  * Word Vectors and Word Senses https://youtu.be/kEMJRjEdNzM (0:00-38:40, 58:00-1:20:00)
+  * [Word Vector Representations (word2vec)](https://youtu.be/8rXD5-xhemo)
+  * [Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) 0:00-38:40, 58:00-1:20:00
 
 * Additional materials:
-  * Natural Language Processing with Deep Learning (cs224n 2017): https://youtu.be/OQQ-W_63UgQ
-  * Word Vector Representations, word2vec (cs224n 2017): https://youtu.be/ERibwqs9p38
-  * Word2Vec Tutorial - The Skip-Gram Model: http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
-  * Efficient Estimation of Word Representations in Vector Space: https://arxiv.org/pdf/1301.3781.pdf
-  * Distributed Representations of Words and Phrases and their Compositionality: https://arxiv.org/pdf/1310.4546.pdf
+  * [CS224n: Natural Language Processing with Deep Learning](https://youtu.be/OQQ-W_63UgQ)
+  * [CS224n: Word Vector Representations, word2vec](https://youtu.be/ERibwqs9p38)
+  * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model)
+  * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+  * [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
  
 ### Week 2 (18.02.2020)
  
- * Lecture 2 | Word Vectors and Word Senses https://youtu.be/kEMJRjEdNzM (38:40-58:00).
- * Enriching Word Vectors with Subword Information https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051
- 
- * Additional materials:
-    * GloVe: Global Vectors for Word Representation: https://youtu.be/ASn7ExxLZws
-    * fastText: https://youtu.be/CHcExDsDeHU
+ * [CS224n: Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) (38:40-58:00).
+ * [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051)
+  * Additional materials:
+    * [CS224n: GloVe: Global Vectors for Word Representation](https://youtu.be/ASn7ExxLZws)
+    * [fastText](https://youtu.be/CHcExDsDeHU)
 
 ## Approximate Syllabus
     
