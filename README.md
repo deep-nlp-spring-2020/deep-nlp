@@ -1,5 +1,5 @@
 # Natural Language Processing with Deep Learning
-Taking together Stanford cs224n course with support of [DeepPavlov](https://deeppavlov.ai/) team.
+Taking together Stanford CS224n course with support of [DeepPavlov](https://deeppavlov.ai/) team.
 
 #### Time: весенний семестр 2020 года, вторник, 19:00
 
