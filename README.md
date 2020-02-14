@@ -35,6 +35,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
  
  * [CS224n: Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) (38:40-58:00)
  * [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051)
+ * [CS231n: Backpropagation, Neural Networks 1](https://youtu.be/i94OvYb6noo)
  * Additional materials:
     * [CS224n: GloVe: Global Vectors for Word Representation](https://youtu.be/ASn7ExxLZws)
     * [fastText](https://youtu.be/CHcExDsDeHU)
