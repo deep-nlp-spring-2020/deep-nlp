@@ -42,9 +42,9 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 
 ## Approximate Syllabus
     
-### Week 3. Neural Networks. Part 1
+### Week 3. Neural Networks.
   
-### Week 4. Neural Networks. Part 2
+### Week 4. Neural Networks.
   
 ### Week 5. Recurrent Neural Networks and Language Models
   
