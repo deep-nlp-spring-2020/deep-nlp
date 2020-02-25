@@ -16,6 +16,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 * weekly quizes
   * [Quiz 1](https://forms.gle/2Gjgq1ot1dFhQsNZ7)
   * [Quiz 2](https://forms.gle/1kUsvhcmNt7hXsRh7)
+  * [Quiz 3](https://forms.gle/zyxKGxpwLi3FANE16)
 * up to 5 practical hometasks (Jupyter Notebook), to be announced.
   * [Assignment 1](https://classroom.github.com/a/lU_lW_7H)
   * [Assignment 2](https://classroom.github.com/a/SvJ6u-QK)
