@@ -45,11 +45,14 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
     * [fastText](https://youtu.be/CHcExDsDeHU)
     
 ### Week 3. Neural Networks. Part 2
-[CS231n: Neural Networks](https://www.youtube.com/watch?v=gYpoJMlgyXA)
-[CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-1)
-[CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-2)
+ * [CS231n: Neural Networks](https://www.youtube.com/watch?v=gYpoJMlgyXA)
+ * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-1)
+ * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-2)
   
 ### Week 4. Neural Networks. Part 3
+
+ * [CS231n: Neural Networks](https://www.youtube.com/watch?v=hd_KFJ5ktUc)
+ * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-3)
 
 ## Approximate Syllabus
   
