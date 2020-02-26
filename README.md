@@ -59,22 +59,31 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 ### Week 5. Recurrent Neural Networks and Language Models
 
 [comment]: <> (1. Лекция 8 полностью https://youtu.be/Keqep_PKrY8 1. Лекция 9 (с 41 минуты))
+
 [comment]: <> (https://youtu.be/QuELiw8tbx8?t=2471 http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ### Week 6. Deep contextualized word representations
 
 [comment]: <> (Статьи (обязательно):)
+
 [comment]: <> (1. Deep contextualized word representations, Peters et al., 2018)
+
 [comment]: <> (1. Universal Language Model Fine-tuning for Text Classification, Howard and Ruder, 2018)
+
 [comment]: <> (1. towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f)
+
 [comment]: <> (1. nlp.fast.ai)
+
 [comment]: <> (1. jalammar.github.io/illustrated-bert)
+
 [comment]: <> (https://youtu.be/Lg6MZw_OOLI)
 
 ### Week 7. Translation, Seq2Seq, Attention
 
 [comment]: <> (Для подготовки к нему посмотрите вот эту лекцию cs224n:https://youtu.be/7m6noV5-l1E)
+
 [comment]: <> (https://clck.ru/FQ8gR)
+
 [comment]: <> (https://clck.ru/FS497)
 
 ### Week 8. Contextual Word Embeddings
