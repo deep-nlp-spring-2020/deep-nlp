@@ -43,12 +43,15 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
  * Additional materials:
     * [CS224n: GloVe: Global Vectors for Word Representation](https://youtu.be/ASn7ExxLZws)
     * [fastText](https://youtu.be/CHcExDsDeHU)
+    
+### Week 3. Neural Networks. Part 2
+[CS231n: Neural Networks](https://www.youtube.com/watch?v=gYpoJMlgyXA)
+[CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-1)
+[CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-2)
+  
+### Week 4. Neural Networks. Part 3
 
 ## Approximate Syllabus
-    
-### Week 3. Neural Networks
-  
-### Week 4. Neural Networks
   
 ### Week 5. Recurrent Neural Networks and Language Models
   
