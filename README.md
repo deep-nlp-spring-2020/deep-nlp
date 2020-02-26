@@ -59,16 +59,12 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 ### Week 5. Recurrent Neural Networks and Language Models
 
 
-[comment]: <> (1. Лекция 8 полностью https://youtu.be/Keqep_PKrY8 1. Лекция 9 (с 41 минуты))
+[comment]: <> (1. Лекция 8 полностью https://youtu.be/Keqep_PKrY8 1. Лекция 9)
 
 
 [comment]: <> (https://youtu.be/QuELiw8tbx8?t=2471 http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ### Week 6. Deep contextualized word representations
-
-
-[comment]: <> (Статьи (обязательно):)
-
 
 [comment]: <> (1. Deep contextualized word representations, Peters et al., 2018)
 
