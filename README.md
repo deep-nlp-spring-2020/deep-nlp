@@ -57,7 +57,9 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 ## Approximate Syllabus
   
 ### Week 5. Recurrent Neural Networks and Language Models
-  
+
+[comment]: <> (a reference style link.)
+
 ### Week 6. Deep contextualized word representations
   
 ### Week 7. Translation, Seq2Seq, Attention
