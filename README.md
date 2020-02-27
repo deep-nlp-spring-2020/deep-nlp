@@ -24,7 +24,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 
 ## Spring 2020 syllabus 
 
-### Week 1 (11.02.2020)
+### Week 1. Word Vector Representations (11.02.2020)
 
 * [Word Vector Representations (word2vec)](https://youtu.be/8rXD5-xhemo)
 * [Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) (0:00-38:40, 58:00-1:20:00)
@@ -35,7 +35,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
   * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
   * [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
  
-### Week 2 (18.02.2020)
+### Week 2. Neural Networks. Backpropagation (18.02.2020)
  
  * [CS224n: Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) (38:40-58:00)
  * [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051)
@@ -44,12 +44,12 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
     * [CS224n: GloVe: Global Vectors for Word Representation](https://youtu.be/ASn7ExxLZws)
     * [fastText](https://youtu.be/CHcExDsDeHU)
     
-### Week 3. Neural Networks. Part 2
+### Week 3. Neural Networks. Initialization and Normaization
  * [CS231n: Neural Networks](https://www.youtube.com/watch?v=gYpoJMlgyXA)
  * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-1)
  * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-2)
   
-### Week 4. Neural Networks. Part 3
+### Week 4. Neural Networks. Optimization
 
  * [CS231n: Neural Networks](https://www.youtube.com/watch?v=hd_KFJ5ktUc)
  * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-3)
