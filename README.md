@@ -54,15 +54,12 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
  * [CS231n: Neural Networks](https://www.youtube.com/watch?v=hd_KFJ5ktUc)
  * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-3)
 
-## Approximate Syllabus
-  
 ### Week 5. Recurrent Neural Networks and Language Models
 
-
-[comment]: <> (1. Лекция 8 полностью https://youtu.be/Keqep_PKrY8 1. Лекция 9)
-
-
-[comment]: <> (https://youtu.be/QuELiw8tbx8?t=2471 http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+ * [CS224n: Language Models and RNNs](https://youtu.be/iWea12EAu6U)
+ * [CS224n: Language Models and RNNs: Notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+   
+## Approximate Syllabus
 
 ### Week 6. Deep contextualized word representations
 
