@@ -44,7 +44,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
     * [CS224n: GloVe: Global Vectors for Word Representation](https://youtu.be/ASn7ExxLZws)
     * [fastText](https://youtu.be/CHcExDsDeHU)
     
-### Week 3. Neural Networks. Initialization and Normaization
+### Week 3. Neural Networks. Initialization and Normalization
  * [CS231n: Neural Networks](https://www.youtube.com/watch?v=gYpoJMlgyXA)
  * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-1)
  * [CS231n: Lecture Notes](http://cs231n.github.io/neural-networks-2)
