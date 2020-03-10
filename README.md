@@ -90,7 +90,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 ### Week 10. Natural Language Generation
 
 ## Project Proposals
- * Schema-Guided State Tracking [[paper]](https://arxiv.org/pdf/1909.05855.pdf) [[paper]](https://arxiv.org/pdf/1910.03544.pdf)
+ * Schema-Guided State Tracking [[paper]](https://arxiv.org/pdf/1909.05855.pdf) [[paper]](https://arxiv.org/pdf/1910.03544.pdf) [[pic]](https://raw.githubusercontent.com/google-research-datasets/dstc8-schema-guided-dialogue/master/schema_guided_overview.png)
  * The BERT Cross-Lingual Transferability [[medium]](https://towardsdatascience.com/bert-based-cross-lingual-question-answering-with-deeppavlov-704242c2ac6f?source=friends_link&sk=b7aef1c29b8a8f067fe62e3bfbea2292) [[paper]](https://arxiv.org/pdf/1906.01502.pdf)
  * BERT adaptation for new languages and tasks [[presentation]](files/main_Huawei.pdf)
  * How conversational is Conversational BERT? [[docs]](http://docs.deeppavlov.ai/en/master/features/models/bert.html)
