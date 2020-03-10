@@ -90,9 +90,35 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 ### Week 10. Natural Language Generation
 
 ## Project Proposals
+
+### Scientific projects
  * Schema-Guided State Tracking [[paper]](https://arxiv.org/pdf/1909.05855.pdf) [[paper]](https://arxiv.org/pdf/1910.03544.pdf)
  * The BERT Cross-Lingual Transferability [[medium]](https://towardsdatascience.com/bert-based-cross-lingual-question-answering-with-deeppavlov-704242c2ac6f?source=friends_link&sk=b7aef1c29b8a8f067fe62e3bfbea2292) [[paper]](https://arxiv.org/pdf/1906.01502.pdf)
+ * BERT adaptation for new languages and tasks [[presenttaion]](files/main_Huawei.pdf)
  * How conversational is Conversational BERT? [[docs]](http://docs.deeppavlov.ai/en/master/features/models/bert.html)
+ * Grammatical error correction [[Shared Task]](https://www.cl.cam.ac.uk/research/nl/bea2019st), [[paper for Russian]](https://arxiv.org/pdf/1910.00353.pdf)
+ 
+ ### Linguistically-oriented projects
+ * Semi-supervised morpheme segmentation [[paper]](https://www.aclweb.org/anthology/W19-4218.pdf)
+ * Low-resource morphological inflection [[Shared Task]](https://sigmorphon.github.io/sharedtasks/2018/), to be updated
+ * More morphological inflection [[Shared Task]](https://sigmorphon.github.io/sharedtasks/2020/)
+ * BERT adaptation for related languages
+ * Automatic data augmentation
+ * Автоматическое решение ЕГЭ [[Соревнование]](https://ai-journey.ru/competitions)
+ * Образовательные приложения глубокого обучения (обучение иностранному или русскому языку)
+
+### Shared tasks
+ * [[Semeval 2020]](http://alt.qcri.org/semeval2020/index.php?id=tasks)
+ * [[SemEval 2018]](http://alt.qcri.org/semeval2018/index.php?id=tasks)
+ * [[SemEval 2019]](http://alt.qcri.org/semeval2019/index.php?id=tasks)
+ * [[Taxonomy enrichment]](https://competitions.codalab.org/competitions/22168)
+
+ ### Technical tasks
+ * Russian SqUAD [[Текущая модель]](http://docs.deeppavlov.ai/en/master/features/models/squad.html#sdsj-task-b)
+ * Aspect-based sentiment analysis
+ 
+ 
+ 
 
 ## Related Courses
 * CS224n: Natural Language Processing with Deep Learning [[course]](http://web.stanford.edu/class/cs224n/) [[youtube]](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
