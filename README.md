@@ -96,7 +96,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
  * How conversational is Conversational BERT? [[docs]](http://docs.deeppavlov.ai/en/master/features/models/bert.html)
  * Grammatical error correction [[Shared Task]](https://www.cl.cam.ac.uk/research/nl/bea2019st) [[paper for Russian]](https://arxiv.org/pdf/1910.00353.pdf)
  * Semi-supervised morpheme segmentation [[paper]](https://www.aclweb.org/anthology/W19-4218.pdf)
- * Low-resource morphological inflection [[Shared Task]](https://sigmorphon.github.io/sharedtasks/2018/), to be updated
+ * Low-resource morphological inflection [[Shared Task]](https://sigmorphon.github.io/sharedtasks/2018/) (to be updated)
  * More morphological inflection [[Shared Task]](https://sigmorphon.github.io/sharedtasks/2020/)
  * Automatic data augmentation (to be updated)
  * Автоматическое решение ЕГЭ [[Соревнование]](https://ai-journey.ru/competitions)
