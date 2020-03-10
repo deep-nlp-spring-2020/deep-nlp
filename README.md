@@ -105,10 +105,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
  * [[SemEval 2018]](http://alt.qcri.org/semeval2018/index.php?id=tasks)
  * [[SemEval 2019]](http://alt.qcri.org/semeval2019/index.php?id=tasks)
  * [[Taxonomy enrichment]](https://competitions.codalab.org/competitions/22168)
-
- ### Technical tasks
  * Russian aspect-based sentiment analysis [[Dialog-2015]](http://www.dialog-21.ru/evaluation/2015/sentiment/)
- 
 
 
 ## Related Courses
