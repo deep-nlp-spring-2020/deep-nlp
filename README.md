@@ -109,8 +109,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
  ### Technical tasks
  * Russian aspect-based sentiment analysis [[Dialog-2015]](http://www.dialog-21.ru/evaluation/2015/sentiment/)
  
-[comment]: <> (Russian SQuAD [[Текущая модель]](http://docs.deeppavlov.ai/en/master/features/models/squad.html#sdsj-task-b))
- 
+
 
 ## Related Courses
 * CS224n: Natural Language Processing with Deep Learning [[course]](http://web.stanford.edu/class/cs224n/) [[youtube]](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
