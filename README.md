@@ -20,6 +20,7 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 * up to 5 practical hometasks (Jupyter Notebook), to be announced.
   * [Assignment 1](https://classroom.github.com/a/lU_lW_7H)
   * [Assignment 2](https://classroom.github.com/a/SvJ6u-QK)
+  * [Assignment 3](https://classroom.github.com/a/d89zcsa_)
 * course project (obligatory), to be announced.
 
 ## Spring 2020 syllabus 
@@ -58,6 +59,17 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 
  * [CS224n: Language Models and RNNs](https://youtu.be/iWea12EAu6U)
  * [CS224n: Language Models and RNNs: Notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+ 
+### Week 6. Vanishing Gradients, Fancy RNNs
+* [CS224n: Vanishing Gradients, Fancy RNNs](https://www.youtube.com/watch?v=QEw0qEa0E50&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=7)
+* [Paper: On the difficulty of training recurrent neural networks](http://proceedings.mlr.press/v28/pascanu13.pdf)
+* [Article: Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+### Week 7. Convolutional Networks for NLP
+* [CS224n: Convolutional Networks for NLP](https://youtu.be/EAJoRA0KX7I)
+* [Paper: Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+* [Paper: Comparative Study of CNN and RNN for Natural Language Processing](https://arxiv.org/abs/1702.01923)
+* [Paper: Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181.pdf)
    
 ## Approximate Syllabus
 
