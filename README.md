@@ -71,6 +71,13 @@ Taking together Stanford CS224n course with support of [DeepPavlov](https://deep
 * [Paper: Comparative Study of CNN and RNN for Natural Language Processing](https://arxiv.org/abs/1702.01923)
 * [Paper: Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181.pdf)
    
+### Week 8. Translation, Seq2Seq, Attention
+* [CS224n: Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=XXtpJxZBa2c)
+* [Lecture Notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
+* [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
+* [Paper: Effective approaches to attention-based neural machine translation](https://arxiv.org/pdf/1508.04025)
+* [Article: Attention? Attention! by Lilian Weng](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+   
 ## Approximate Syllabus
 
 ### Week 6. Deep contextualized word representations
